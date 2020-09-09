@@ -3,5 +3,5 @@
 # Docker Commands
 
 ```bash
-$ docker-compose upe
+$ docker-compose up
 ```
