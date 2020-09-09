@@ -9,7 +9,7 @@ services:
       - 6001:80
 
   website:
-    image: php:apache
+    build: ./website
     volumes:
       - ./website:/var/www/html
     ports:

@@ -3,5 +3,7 @@
 # Docker Commands
 
 ```bash
-$ docker-compose up
+$ docker-compose build
+$ docker-compose up -d
+$ docker-compose down
 ```
